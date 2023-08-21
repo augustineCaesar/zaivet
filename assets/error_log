@@ -1,0 +1,6 @@
+[20-May-2023 07:01:39 UTC] PHP Warning:  Undefined array key "name" in /home/ellythe1/zaivetcentre.com/assets/contact.php on line 6
+[20-May-2023 07:01:39 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ellythe1/zaivetcentre.com/assets/contact.php on line 6
+[20-May-2023 07:01:39 UTC] PHP Warning:  Undefined array key "email" in /home/ellythe1/zaivetcentre.com/assets/contact.php on line 8
+[20-May-2023 07:01:39 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ellythe1/zaivetcentre.com/assets/contact.php on line 8
+[20-May-2023 07:01:39 UTC] PHP Warning:  Undefined array key "massage" in /home/ellythe1/zaivetcentre.com/assets/contact.php on line 9
+[20-May-2023 07:01:39 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ellythe1/zaivetcentre.com/assets/contact.php on line 9
